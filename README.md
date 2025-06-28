@@ -1,4 +1,4 @@
-## 👋 Hi there, I am Syafiq Ilham 
+# 👋 Hi there, I am Syafiq Ilham 
 
 <!--
 **syafiq-is/syafiq-is** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently attending Amikom University Yogyakarta
 
+<br />
+
 ### 🚀 Some Tech I Have Used And Learn
 
 #### _Operating System_
@@ -25,7 +27,6 @@ Here are some ideas to get you started:
   <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" />        
   <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
 </p>
-
 
 #### _Framework, Library, Programming Languages_
 
@@ -64,6 +65,8 @@ Here are some ideas to get you started:
   <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
   <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" />          
 </p>
+
+<br />
 
 ### Github Statistic
 <p align="left">
